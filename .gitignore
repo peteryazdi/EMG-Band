@@ -1,0 +1,35 @@
+# OS and editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+__pycache__/
+*.pyc
+*.swp
+
+# KiCad backups, local history, per-user state and lock files
+*-backups/
+.history/
+*.bak
+*_old
+*.kicad_prl
+*.lck
+*.kicad_sch-bak
+*.kicad_pcb-bak
+_autosave-*
+fp-info-cache
+*.dsn
+*.ses
+*.rpt
+**/jlcpcb/project.db
+
+# Firmware build output (STM32CubeIDE / PlatformIO)
+.pio/
+Debug/
+Release/
+build/
+*.elf
+*.map
+
+# Office lock files
+~$*
