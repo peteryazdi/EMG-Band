@@ -114,3 +114,7 @@ This is an educational project, not a certified medical device, and it is not in
 ## License
 
 MIT. See [LICENSE](LICENSE).
+
+## Author
+
+Peter Yazdi, [peteryazdi@gmail.com](mailto:peteryazdi@gmail.com)
